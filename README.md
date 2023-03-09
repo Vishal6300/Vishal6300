@@ -7,7 +7,7 @@
 - 💬 Ask me about Java, MySQL, Spring, JavaScript, HTML & CSS. <br>
 - ⚡ Fun fact :- I'm a traveller ✈️ <br>
 - 📫 Reach me on <a href = "mailto: vkdeoghar1998@gmail.com"> Email</a><br>
-- 👨‍💻 All of my projects are available at <a href="https://6300.github.io" target="blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://vishal6300.github.io" target="blank">PORTFOLIO</a>
 </p>
 
 
