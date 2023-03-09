@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/monuraj.sah/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fvishalraj7870%3Ffbclid%3DIwAR1oiknqruVthYtgf2M-PhDOnNVtxwahb-bDBnB95ifHm1xUB2brAv-RcVU&h=AT1mHD1WYI4f0n3hQRiIOfHZicV6dQL0SJFOoTeOlBPgxLH5U5ODM6Sm6kbN2-zO2HnDu-I7Fct5hEREKU4dVlwWJcTWa_k2ltaGA_8LOKuEbRzQRA3emeFfr_7EDXjKN9ikfoH37yy_Qm8q9mMJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kumar-sah-147a67246/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/monuraj.sah/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fvishalraj7870%3Ffbclid%3DIwAR1oiknqruVthYtgf2M-PhDOnNVtxwahb-bDBnB95ifHm1xUB2brAv-RcVU&h=AT1mHD1WYI4f0n3hQRiIOfHZicV6dQL0SJFOoTeOlBPgxLH5U5ODM6Sm6kbN2-zO2HnDu-I7Fct5hEREKU4dVlwWJcTWa_k2ltaGA_8LOKuEbRzQRA3emeFfr_7EDXjKN9ikfoH37yy_Qm8q9mMJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kumar-sah-147a67246/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishal6300&icon=9&color=0)](https://visitcount.itsvg.in)
