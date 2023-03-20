@@ -1,24 +1,24 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Vishal Kumar Sah</h1>
+<h3 align="center"><i>A passionate Java Backend Developer</i></h3>
+
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
 
 <h3>💫 About Me:</h3>
 <p>
 - 🌱 I’m currently learning Java and MySQL <br>
 - 💬 Ask me about Java, MySQL, Spring, JavaScript, HTML & CSS. <br>
 - ⚡ Fun fact :- I'm a traveller ✈️ <br>
-- 📫  How to reach me **`vkdeoghar1998@gmail.com`** 
-- 🔭  All of my projects are available at **[here](https://github.com/Vishal6300/Vishal6300)**
-- 👨‍💻🏻‍🎓 Visit my **[Portfolio](https://vishal6300.github.io/)**
+- 📫  How to reach me **`vkdeoghar1998@gmail.com`** <br>
+  
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Vishal6300/Vishal6300)**
+
+- 👨🏻‍🎓 Visit my **[Portfolio](https://vishal6300.github.io/)*
 </p>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
- 
-
-
 <!-------------- TEch Stack --------------->
-// <h3 align="center">My Tech Stack</h3>
+ <h3 align="center">My Tech Stack</h3>
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
