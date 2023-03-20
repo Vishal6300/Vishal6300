@@ -16,7 +16,7 @@
 - 👨🏻‍🎓 Visit my **[Portfolio](https://vishal6300.github.io/)*
 </p>
 
-
+<br/><br/>
 <!-------------- TEch Stack --------------->
  <h3 align="center">My Tech Stack</h3>
 <br/>
