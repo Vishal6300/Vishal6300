@@ -22,7 +22,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,spring,hibernate,mysql,html,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,js,spring,hibernate,mysql,html,css,bootstrap" />
   </a>
 </p>
 <br/>
@@ -31,7 +31,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,idea,mysql,replit" />
   </a>
 </p>
 
