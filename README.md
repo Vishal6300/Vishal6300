@@ -6,7 +6,7 @@
 
 <h3>💫 About Me:</h3>
 <p>
-- 🌱 I’m currently learning Java and MySQL <br>
+- 🌱 I’m an experienced Java Developer <br>
 - 💬 Ask me about Java, MySQL, Spring, JavaScript, HTML & CSS. <br>
 - ⚡ Fun fact :- I'm a traveller ✈️ <br>
 - 📫  How to reach me **`vkdeoghar1998@gmail.com`** <br>
